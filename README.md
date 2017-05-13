@@ -15,23 +15,26 @@ Below are listed a few important scenes.
 
 ### RPGPart/RPGSetup/scene1
 
-Scene "scene1" contains a demo with player and 2 groups, police and few vikings fighting. There is 1 NPC wandering around(using A*).
+Scene "scene1" contains a demo with player and 2 groups, police and few vikings fighting. There is 1 NPC wandering around(using AStar).
 Ai is implemented with behaviour trees.
 You can talk to few NPCs.
 
-You can also fight as a player.
-Controls
-
-WASD:move
-J: attack
-K: defend, TODO
-L: dash
-
-Note: units don't die, probably broken collisions.
 
 Characters are made from rectangle sprites, made and animated directly in unity.
 
 Background is a mix of tiles and quickly painter images, made with Tiled and photoshop.
+
+You can also fight as a player.
+
+Controls:
+- WASD:move
+- J: attack
+- K: defend, TODO
+- L: dash
+
+
+Note: units don't die, probably broken collisions.
+
 
 ### RPGPart/RPGSetup/plaza
 
