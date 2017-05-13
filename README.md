@@ -13,7 +13,7 @@ Project contains:
 
 Below are listed a few important scenes.
 
-### scene1
+### RPGPart/RPGSetup/scene1
 
 Scene "scene1" contains a demo with player and 2 groups, police and few vikings fighting. There is 1 NPC wandering around(using A*).
 Ai is implemented with behaviour trees.
@@ -33,7 +33,7 @@ Characters are made from rectangle sprites, made and animated directly in unity.
 
 Background is a mix of tiles and quickly painter images, made with Tiled and photoshop.
 
-### plaza
+### RPGPart/RPGSetup/plaza
 
 I tried to make and interesting crowded location, like a market or something, where NPC walk around and do stuff.
 I ended up with a bunch of NPCs that move between the stalls by using waypoints, some collision avoidance between characters and random timers. 
