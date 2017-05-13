@@ -1,0 +1,120 @@
+﻿- make vertical scroll camera
+- add gun shooting
+- add bullets
+- add upgrade menu
+- add build menu
+
+
+
+Define the scope properly.
+First person gameplay with melle attacks of high strength, with mechanical scarf.
+Enemies area also powerful, so humans fly around when hit by them.
+They on the other hand can fly around when hit by your sis.
+
+Barricades. Your job is to stand on wall and protect it. You can exit the wall.
+Gameplay is rpg-beat-up like.
+
+
+Prologue:
+Skellies came from the other world. Alien contacts embassy tried to handle them and 
+everthing went fine for a while. Skellies took it easy, as they were to scout the area
+before others come. Humans seemed weak to them, but familiar to their own race, 
+yet way more advanced in certain aspects, and idiotic in others, like net. 
+
+But the curse they brought with them, which makes humans
+instantly change into immortal skelletons after death, began affecting some people.
+Skellies got qurantined against their will, and they fought out. They decided to 
+quickly report back. The decision fell to overthrow these humans.
+Whole army comes out. Battle ensues with gangs, police, and private military group. 
+Galactic goverment ignores it and lets the locals take care of it. It's busy 
+fighting on other fronts. They will nuke the skellies if things get out of hand.
+
+
+Plot:
+Find sis and join your family at starport, while surviving the attack of the skellies.
+Optionaly save some people on the way, of which you can get some to join you.
+
+You begin by running together with other people.
+Officials publicly warn about the attack on the radio and recommend going to port
+for evacuation.
+
+Officials warn civilians about the quarantine on the port, that everyone will stay
+on the ship even after they leave to prevent further spreading. All private 
+ships were taken.
+
+First find you sis who is nearby.
+Then rondevour with your family at the spaceport for the evacuation.
+Fight your way out, and save a few poeple, forming a team. 
+Note that saving the guys won't necessarily make them useful. They might die instantly.
+some guy with flamethrower. dangerous
+the baseball bat guy. keeps back
+arms dealer with only a bayonet on broken gun and a pistol left. dangerously craizy. saves the bullets, just uses bayonet
+random people that run off instantly you save them. die instantly if they panic run into skellies
+stupid gangster. dead for being too agressive
+useless writer. he can survive cause he keeps hiding near you.
+some kid and his dad. doesn't die, skellies don't hurt kids. mom died.
+teacher. dead, he's too loud
+the player in argument with his 2 gf's. 1 gf dies, he flips out after seeing her 
+and dies. other gf calmly survives. she can use pistol that arms dealer gives her.
+police drone. you can hack it to follow you and assist with the laser gun.
+
+note that if they die from skellies, they change into them. they aren't aggressive,
+just in shock. or go on rampage.
+
+Locations:
+the bar. flamethrower spams cocktails there.
+the car that crashes as you run, gf's and player got chased down with an axe in the window.
+the shop, with that arms dealer.
+random running writer, he joins you as you run.
+running kid, you can carry him as he's too slow.
+park, baseball bat guy and gangster are bros, they try to fight back.
+school, teacher on the roof, dies as you talk to him. your pursuer throws his axe at him.
+
+***************************
+!!!!!!!!!!!!!!
+remove this
+Todo: look at those characters and think what kind of behaviours they will need
+TODO: make player with that scarf attack.
+TODO: make skelly enemy with axe, shield and cursed bones
+TODO: make human enemy with axe, bow shield and axe. they transform to skellyx
+***************************
+
+
+Finale:
+Sisters and their team is cornered in reinforced police station. They have to 
+push to their limit themselves and their comrades, to make it out, some dying on the
+way out. 
+They both overwork. They begin to change for unknown reasons, straining on muscles,
+and shape of the bones. One gets claw hands, other visible tissue. They manage to escape,
+and regroup with their dad at the spaceport. 
+They manage to escape, before and the skellies get nuked.
+Everyone gets qurantined though.
+
+Note that the entity is dangerous only to humans. So your comrades might not pass even if they survive
+
+---------------------------------------
+What is the game about?
+
+Game is an RPG in a scifi-fantasyish setting, with an engineer mage girl as the main 
+character. Game focuses on exploration of the world, as the girl travels.
+
+Maybe
+World consists of large factions that battle.
+
+There is a city with the empress who broke regular rule transfer. 
+She issued rule, that whoever takes over the city, wins her empire.
+
+There are people form multiple worlds. They connect by the central portal.
+
+#anime reality
+https://www.youtube.com/watch?v=Zaxs9xgXbHo
+
+Serious moments, non serious artistic value. Deep meanings.
+
+
+It starts with her on her new job. Or whatever, a scifish city of magic.
+91 days with serious magic.
+
+Realistic setting with strong magic. #fairytail but grounded
+
+Steampunk-ish orange-yellow-blue vibe. reed. Remember that yellow coat girl...

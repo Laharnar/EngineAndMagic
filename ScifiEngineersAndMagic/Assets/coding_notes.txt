@@ -1,0 +1,49 @@
+﻿
+Logs
+
+5.2.2017
+= A* pathfind =
+wp grid, with disabled areas where collisions are
+automatic ping pong with path for 1 npc, between 2 points
+apply A* over those 2 points.
+- problems with null values, try to run it as ping pong without A*.
+
+added new character, blue kid with few wave and idle animation.
+
+tried to do talking, but it kinda failed.
+
+notes for todo combat: 
+on click 
+> player: attack with normal attack combo with 2 secs exit time loop of 2 hits. (they should have different collisions, and animations)
+> WeaponUser.cs: has behaviour per weapon type, activate collision checking on weapon. start counting time. time > 2 secs ? reset static attack counter, you dont need 1 for every combo.
+> weapon: on trigger deal dmg
+> other: handle death > add a brick wall to hit. add canvas based hp bar on brick wall.
+
+2.2.2017
+todo:
+implement combat
+* simple doll to train on
+- basic attack chain with key, check out other games too
+- capture in lock
+- throw from lock
+
+next(3): add fade in-out. then implement it together with teleport in MoveInside.cs call of teleport.
+
+
+implement quests via world interactions.
+daily: started the logs, after finishing first road tilemaps
+
+
+
+
+= TELEPORTING SUPPORT =
+on triggered by function, teleport the target to set location. triggered can be by anything, like collision,
+and teleported is to vector, so it can be teleported to object.
+its implemented with static data class and trigger mono's
+
+= Done = 
+don't want it, next(1): add instant auto trigger options, so you don't need to press e. -
+partialy done, dont need to complicate it more, next(2): implement n-sided enter-exit building teleport. teleport can be connect to n connections,
+that can chose with string, for ui-choice versions. for now just make it work for 2 sides,
+enter and exit building.
+
